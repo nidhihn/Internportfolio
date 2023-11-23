@@ -1,4 +1,4 @@
-import image from "../images/Mypicture.jpg";
+import image from "../images/Aboutme.jpg";
 import "../css/About.css";
 function About() {
     return (
