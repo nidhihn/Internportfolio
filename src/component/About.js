@@ -6,7 +6,7 @@ function About() {
         
          <div id="About">
         
-            <div class="row">
+            {/* <div class="row"> */}
                 <div class="about-col-1">
                     <img id="abtimage"src={image} alt="Image"/>
                 </div>
@@ -23,8 +23,8 @@ function About() {
 
                            
                 </div>
-            </div>
-        
+            {/* </div>
+         */}
     </div>
     
         </>
