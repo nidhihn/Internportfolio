@@ -68,17 +68,21 @@ body {
          
     }
     .about-col-2 p{
-        font-size: 12px;
-        /* margin-left: 20px;
-        margin-right: 10px; */
+        font-size: 24px;
+         margin-left: 0;
+        margin-right: 0; 
+        width: 160%;
         
     }
 }
 
 @media (max-width:600px){
-    #abtimage{
-        align-items: center;
-        width:200px;
-    
+    .about-col-1 #abtimage{
+        justify-content: center;
+        
+        
+        
+        
     }
  }
+ 
